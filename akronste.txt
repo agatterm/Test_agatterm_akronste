@@ -1,0 +1,6 @@
+git clone https://github.com/agatterm/Test_agatterm_akronste.git
+git add akronste.txt
+git commit -m"akronste hinzugefuegt"
+git fetch
+git merge
+git push
